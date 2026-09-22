@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 # BIOGLOW competition guide
 
 An independent guide to **FIRST LEGO League Future Edition, grades 3–8, BIOGLOW 2026–2027**. These notes help children, families, and coaches understand the game and discuss their own designs and strategies.

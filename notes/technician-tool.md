@@ -1,3 +1,7 @@
+---
+title: Technician tool
+---
+
 # Technician tool: strategy-design assumptions
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

@@ -1,3 +1,7 @@
+---
+title: Driving-base attachments
+---
+
 # Driving-base attachments: strategy-design assumptions
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

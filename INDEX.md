@@ -1,3 +1,8 @@
+---
+title: Official resources
+permalink: /resources.html
+---
+
 # Official resource library
 
 **BIOGLOW 2026–2027 · Future Edition 3–8 · English-US · Collected September 21, 2026**

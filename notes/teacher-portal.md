@@ -1,3 +1,7 @@
+---
+title: Teacher Portal
+---
+
 # Official Teacher Portal sessions
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

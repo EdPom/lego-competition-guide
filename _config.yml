@@ -1,0 +1,35 @@
+title: BIOGLOW competition guide
+description: Independent notes on token flow, scoring, tools, and child-led strategy for FIRST LEGO League Future Edition.
+url: https://edpom.github.io
+baseurl: /lego-competition-guide
+repository: EdPom/lego-competition-guide
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+navigation:
+  - title: Home
+    url: /
+  - title: Resources
+    url: /resources.html
+  - title: Token flow
+    url: /notes/token-flow-and-scoring.html
+  - title: Driving base
+    url: /notes/driving-base.html
+  - title: Attachments
+    url: /notes/driving-base-attachments.html
+  - title: Technician
+    url: /notes/technician-tool.html
+  - title: Score ceiling
+    url: /notes/theoretical-score.html
+  - title: Teacher Portal
+    url: /notes/teacher-portal.html

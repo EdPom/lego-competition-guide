@@ -1,3 +1,7 @@
+---
+title: Theoretical score ceiling
+---
+
 # Theoretical score ceiling
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

@@ -1,3 +1,7 @@
+---
+title: Driving base
+---
+
 # Driving base: strategy-design assumptions
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

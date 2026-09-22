@@ -1,3 +1,7 @@
+---
+title: Token flow and scoring
+---
+
 # Where tokens start, what releases them, and what scores
 
 [Home](../README.md) · [Official resource index](../INDEX.md)

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+    <script type="module" src="{{ '/assets/site.js' | relative_url }}"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">BIOGLOW <span>Competition guide</span></a>
+        <p class="season">2026–2027 · Future Edition · Grades 3–8</p>
+        <nav class="site-nav" aria-label="Guide pages">
+          {% for item in site.navigation %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      <details class="page-contents" hidden>
+        <summary>On this page</summary>
+        <nav aria-label="Page sections"></nav>
+      </details>
+      <article class="content">{{ content }}</article>
+    </main>
+    <footer class="site-footer">
+      <p>Independent learning notes. Not affiliated with or endorsed by FIRST or the LEGO Group. Official rules and event rulings take precedence.</p>
+      <a href="https://github.com/{{ site.repository }}/blob/main/{{ page.path }}">View this page on GitHub</a>
+      <span aria-hidden="true"> · </span><a href="{{ '/resources.html' | relative_url }}">Official resources</a>
+    </footer>
+  </body>
+</html>
