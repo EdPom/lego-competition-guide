@@ -24,7 +24,7 @@ For a first discussion, read the token-flow guide with the official Field Map, t
 
 ## Evidence and scope
 
-The underlying resources were reviewed on September 21, 2026; this public guide was prepared on September 22, 2026. These notes distinguish explicit rules, observed behavior, mathematical deductions, and design interpretations. In particular, the grand tree's proposed one-resource/one-keystone release still needs confirmation on a working model. The theoretical score depends on assumptions that have not all been physically demonstrated.
+The underlying resources were reviewed on September 21, 2026; this public guide was prepared on September 22, 2026. These notes distinguish explicit rules, observed behavior, mathematical deductions, and design interpretations. The grand tree’s one-resource/one-keystone release is now [demonstrated in the official video](https://www.youtube.com/watch?v=JDJch3tYZok&t=114s), reviewed September 22, 2026. Timing and repeatability still need practice measurements. The theoretical score depends on assumptions that have not all been physically demonstrated.
 
 These pages are informal explanations, not official rulings. Check the [official season materials](https://education.lego.com/en-us/first-lego-league/season-materials/#future-edition-3-8), game updates, and event organizer guidance before competing. The event head referee makes final rulings.
 

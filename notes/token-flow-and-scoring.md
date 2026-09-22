@@ -6,7 +6,7 @@ title: Token flow and scoring
 
 [Home](../README.md) · [Official resource index](../INDEX.md)
 
-BIOGLOW Future Edition, grades 3–8. Checked September 21, 2026. This is a parent/child reference, not an official ruling. Page references below are PDF page numbers.
+BIOGLOW Future Edition, grades 3–8. Rules reviewed September 21, 2026; grand-tree video evidence updated September 22, 2026. This is a parent/child reference, not an official ruling. Page references below are PDF page numbers.
 
 **Resource availability and dependencies provide a foundation for strategy. There is no single required mission order.** The rulebook explicitly permits any order or combination. Several branches can start immediately, and the four roles can work in parallel.
 
@@ -41,7 +41,7 @@ Quantities below are **per half-field**. Summing the official placements gives *
 | Operator barrier's tangled roots | 2 | 2 | Extract with the Operator tool; do not treat these as loose hand-loadable stock. | 9 |
 | Pond just outside Technician area | 1 | 2 | Already loose on the field; collect or move legally. No mission must be completed first. | 10 |
 | Pond outside Operator area | 1 | 2 | Already loose on the field; collect or move legally. No mission must be completed first. | 9 |
-| Grand tree, upper keystone stash | 5 | 0 | **Strong build-based inference:** R passing over the conveyor top turns the metering gate and releases one K into the opposite chute. Physical one-for-one behavior still to verify; see section 5. | 3 |
+| Grand tree, upper keystone stash | 5 | 0 | **Demonstrated in the official video:** cycling one R releases one K through the opposite chute, while the five-K stash lasts. [Watch 1:54–2:02](https://www.youtube.com/watch?v=JDJch3tYZok&t=114s); see section 5. | 3 |
 | Grand tree base | 0 | 1 | Already loaded for the tree's resource-cycling mechanism. | 3 |
 | Nest | 3 | 0 | Activate the nest release; optional invasive piece may add an obstacle. | 5 |
 | Hollow tree | 0 | 2 | Official game video demonstrates keystone delivery/release at this model; verify the exact reliable trigger on the built model. | 4 |
@@ -73,7 +73,7 @@ Sources: Game Missions pp. 3–8; Rulebook p. 3. The table does not replace equi
 
 **Read each view left to right.** The views separate token supply, final placement, waterfall reuse, and the forest bonus so connections stay short. Vertical position only separates alternatives; it does **not** mean an earlier/later mission or a dependency level. All arrows use straight segments and right-angle bends. An arrow ends at the box its arrowhead touches; a line leaving that box is a new connection.
 
-Solid arrows are supported by rules, demonstrations, or firsthand observations. The sole dashed arrow marks the grand-tree release inferred from the build drawings. The waterfall reuse loop is our reading of the rules. Reliability and travel time still need practice measurements.
+Solid arrows are supported by rules, demonstrations, or firsthand observations. The grand-tree release is now supported by the official video, so its former dashed inference arrow is solid. The waterfall reuse loop remains our reading of the rules. Reliability and travel time still need practice measurements.
 
 ### A. Unlocking additional tokens
 
@@ -84,7 +84,7 @@ Columns: **starting stash → action that unlocks it → released tokens and rel
 flowchart LR
   N["Nest<br/>3 K"] --> NT["Operate low<br/>stump trigger"] --> NO["All 3 K out<br/>30 points + collect K"]
   H["Hollow tree<br/>2 R"] --> HT["Deliver K through<br/>central target"] --> HO["Both R out<br/>20 points + collect R"]
-  G["Grand-tree stash<br/>5 K"] --> GT["Cycle R over<br/>conveyor top"] -. "build inference" .-> GO["1 K released per R<br/>while stash lasts"]
+  G["Grand-tree stash<br/>5 K"] --> GT["Cycle R over<br/>conveyor top"] -->|"official video"| GO["1 K released per R<br/>while stash lasts"]
   V["Our hive<br/>3 R"] --> VT["Opposite forest<br/>receives K1, K2, K3"] --> VO["R1, R2, R3 released<br/>one per delivery"]
   T["Tangled roots<br/>2 K + 2 R"] --> TT["Extract with<br/>Operator tool"] --> TO["2 K + 2 R<br/>available to use"]
 ```
@@ -105,7 +105,7 @@ flowchart LR
   R --> RH["Deliver to<br/>central haven"] --> RHP["5 per R fully inside<br/>shared by both teams"]
 ```
 
-The three microbiomes are the young forest, grand tree, and hollow tree. K must be loose inside and not touching equipment. Direct canopy placement does not score. Cycling R may also release grand-tree K as shown in view A.
+The three microbiomes are the young forest, grand tree, and hollow tree. K must be loose inside and not touching equipment. Direct canopy placement does not score. Cycling R also releases grand-tree K while the starting stash remains, as shown in view A.
 
 ### C. Waterfall: score passages, then recover K
 
@@ -155,25 +155,25 @@ The table below separates official demonstrations, reported physical observation
 | Tree rotation opens waterfall access | Book 3 pp. 53–58 and Specialist video show the mechanism. Reported firsthand observation confirms the lid springs closed unless the tree holds it open. | Confirmed maintained-position dependency. Record a reliable holding orientation. No required resource-count threshold is stated. |
 | Waterfall exit and reuse | Reported firsthand observation locates the exit at the bottom beside the score meter. Rulebook 14–15 permits tool-based field interaction; Mission 3 counts genuine K cycles without stating a unique-token requirement. | Driving-base collection/re-feeding is supported by our rules interpretation. The Driver may not retrieve by hand. Measure loop time and reliability; no direct counter manipulation. |
 | Young forest → opposite hive | Field Map pp. 6–7 and setup video around 8:44 specify opposite-side sensor/motor pairing. Game Missions p. 3 specifies fourth K and queen defeat. | Confirmed. A one-half practice setup must account for the missing opposite model. |
-| Grand tree upper 5 K | Book 2 pp. 16–22 shows a paddle/rotor gate, its installation below the magazine, and spring-loaded linkage. Combined book 1+2 pp. 7 and 9 locates it above the conveyor's upper turn and beside the opposite-side exit chute. | **Strong mechanical inference, based on the assembly drawings:** a passing R turns the metering gate, releasing one K to the chute. One-for-one operation and the exact contact point still need physical or video confirmation. This is stronger evidence than the earlier “unknown trigger” label. |
+| Grand tree upper 5 K | [Official Game Missions video, 1:54–2:02](https://www.youtube.com/watch?v=JDJch3tYZok&t=114s), reviewed September 22, 2026: upper conveyor/gate motion and one K exiting the opposite chute around 2:00. Build book 2 pp. 16–22 and combined assembly pp. 7 and 9 explain the mechanism. | **Demonstrated one-R/one-K release.** Check cycle time, spacing, jams, landing position, and all-five release reliability on the assembled model. |
 | Hive's 3 R | Field Map p. 7 gives the starting load and opposite-forest connection. Third-party [Next Level Teacher demonstration](https://www.youtube.com/shorts/Yw9Wgl9S70s), opening ~0:00–0:09, shows the successive outputs. | **Demonstrated sequence:** K1 → R1, K2 → R2, K3 → R3, K4 → queen down. Third-party observation consistent with the official queen rule; verify reset/pairing and reliability on the assembled model. |
 
-### Grand tree: build-based explanation checked after the initial guide
+### Grand tree: release demonstrated in the official video
 
-The proposed release sequence is consistent with the assembled geometry:
+**Updated September 22, 2026:** the [official Game Missions video, approximately 1:54–2:02](https://www.youtube.com/watch?v=JDJch3tYZok&t=114s), demonstrates the **one cycled R → one released K** sequence. The base shot establishes the resource input; the upper-tree shot shows conveyor motion, gate movement, and one yellow K leaving the opposite brown chute around 2:00. This upgrades the earlier build-based inference to an observed operating behavior.
+
+The build drawings explain the route behind that demonstration:
 
 1. An R is lifted from the base toward the canopy.
-2. At the conveyor's upper turn, it appears to contact the protruding gray paddle/rotor beneath the vertical K magazine.
-3. Turning that rotor moves the metering mechanism; the spring-loaded linkage is consistent with holding/resetting it between releases rather than letting the whole stack fall out.
-4. One K is expected to leave the bottom of the stack through the brown chute attached on combined assembly p. 7, opposite the canopy chamber. The R continues toward the canopy.
+2. Its passage at the upper turn actuates the metering mechanism beneath the K magazine.
+3. The gate releases one K through the opposite-side chute while the R continues toward the canopy.
+4. The spring-linked mechanism resets to retain the remaining K for later deliveries.
 
-**Evidence level:** the rotor, magazine, spring linkage, conveyor position, and chute are visible in the drawings. The moving R-to-paddle contact and exact one-K-per-R behavior are inferred from their geometry, not shown in a labeled operating sequence. This should be a dashed dependency in planning, not omitted entirely or described as a confirmed rule.
+**Evidence scope:** the official video demonstrates the input/output sequence and moving gate; book 2 pp. 16–22 and combined assembly pp. 7 and 9 support the internal contact/reset explanation. The short clip does not establish a measured success rate, a complete five-token discharge trial, or every empty-conveyor condition. Those are useful reliability checks, not reasons to keep the normal release dependency labeled unverified.
 
-Expected dependency: **cycle R → canopy placement opportunity + release K → collect K → another K mission**. The K still needs legal collection/delivery; it earns no separate points merely for leaving this particular stash. “One per R” applies only while K remains in the starting five-token supply and the mechanism operates correctly.
+Dependency: **cycle R → canopy placement opportunity + release K → collect K → another K mission**. The R is not traded away or converted into K: it continues toward the canopy, while the K comes from the separate five-token stash. K release itself earns no separate points. Budget at most five released K from that starting stash, and collect/deliver them legally before counting further scoring opportunities.
 
-Focused bench check: load 5 K, run the conveyor empty, then send 1 R slowly across the top while watching the rotor, spring linkage, K chute, and canopy entrance. Repeat with separately spaced R. Record whether empty cycling releases anything and whether each passing R releases exactly 1 K. This distinguishes resource contact from activation by the conveyor itself.
-
-The grand tree's one-for-one behavior remains a build-based inference pending a working-model check. The hive's release sequence is supported by the linked third-party demonstration, as summarized above.
+**Remaining bench work:** reproduce the demonstrated sequence with the team's build, time the cycle, check spacing/jams and the landing location, and verify all five stored K can be released reliably. Empty cycling can be checked when calibrating the mechanism, but it is no longer a prerequisite to understanding the demonstrated normal sequence.
 
 ## 6. Use the correct building book
 
@@ -196,6 +196,8 @@ See the [resource index](../INDEX.md) for clickable building books.
 The Technician Role Card p. 2 reverses the E2/E3 references relative to the actual PDF contents. Follow the actual booklet contents: E2 for the young-forest sensor and E3 for the hive motor.
 
 ## Sources
+
+- [Official grand-tree release demonstration, 1:54–2:02](https://www.youtube.com/watch?v=JDJch3tYZok&t=114s), reviewed September 22, 2026. Visual evidence establishes the normal one-R/one-K sequence; the captions describe canopy scoring without explaining this release.
 
 - [Grand tree building book 2](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt4a68c7940c3294d7/6a69a0400dd9bd280fc21a28/45834_02_BI.pdf?locale=en-us), pp. 16–22 (metering mechanism), and [combined assembly book 1+2](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt5ec3ce18dcbe021c/6a69a041adf8081a20323d7d/45834_01_and_02_BI.pdf?locale=en-us), pp. 7 and 9 (chute and canopy alignment).
 - [Official Field Map](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt90d03df02f7a76dc/6a7483f9c2c8ed763808c589/fll-future-3-8-bioglow-field-map.pdf?locale=en-us), pp. 2–11 and 14.
