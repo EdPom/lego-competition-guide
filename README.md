@@ -23,4 +23,4 @@ The underlying resources were reviewed on September 21, 2026; this public guide 
 
 These pages are informal explanations, not official rulings. Check the [official season materials](https://education.lego.com/en-us/first-lego-league/season-materials/#future-edition-3-8), game updates, and event organizer guidance before competing. The event head referee makes final rulings.
 
-This project is not affiliated with, sponsored by, or endorsed by FIRST or the LEGO Group. LEGO and FIRST LEGO League names and associated marks belong to their respective owners. Official publications and media remain hosted by their publishers; this repository contains explanatory notes and links.
+This project is not affiliated with, sponsored by, or endorsed by FIRST or the LEGO Group. LEGO and FIRST LEGO League names and associated marks belong to their respective owners. Full official publications remain hosted by their publishers. This repository contains explanatory notes, links, and three attributed, unaltered reference page images in the token-flow guide. Those images remain copyrighted by FIRST and the LEGO Group.

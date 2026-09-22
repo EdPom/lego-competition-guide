@@ -8,17 +8,23 @@ BIOGLOW Future Edition, grades 3–8. Checked September 21, 2026. This is a pare
 
 ## 1. Read the actual field
 
-Open the linked official token-placement diagram alongside this guide. Red half is left; blue half is right, rotated relative to red. The central haven straddles the join. Yellow tokens are **keystone species (K)**; turquoise tokens are **resources (R)**. Numbers beside icons are starting quantities.
+The official token-placement diagram below shows the starting supplies. Red half is left; blue half is right, rotated relative to red. The central haven straddles the join. Yellow tokens are **keystone species (K)**; turquoise tokens are **resources (R)**. Numbers beside icons are starting quantities.
 
-[Official starting token placement — Field Map, page 11](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt90d03df02f7a76dc/6a7483f9c2c8ed763808c589/fll-future-3-8-bioglow-field-map.pdf?locale=en-us#page=11)
+![Official BIOGLOW full-field map showing starting quantities of yellow keystone species and turquoise resources.](images/official-token-placement.png)
+
+*Source: [Official starting token placement — Field Map, page 11](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt90d03df02f7a76dc/6a7483f9c2c8ed763808c589/fll-future-3-8-bioglow-field-map.pdf?locale=en-us#page=11). ©2026 FIRST and the LEGO Group. All rights reserved.*
 
 The tree cluster contains distinct destinations: **the grand tree's green-ring microbiome, its resource base, its canopy chamber, and its five-token keystone stash are different places.** A token merely being somewhere on a tree is not enough to score.
 
-[The three scoring microbiomes — Game Missions, page 3](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt459e8bb5a19be9e2/6a69a003c5cd7b190e301570/fll-future-3-8-bioglow-game-missions.pdf?locale=en-us#page=3)
+![Official diagram identifying the young forest, grand tree, and hollow tree scoring microbiomes.](images/official-microbiome-targets.png)
+
+*Source: [The three scoring microbiomes — Game Missions, page 3](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt459e8bb5a19be9e2/6a69a003c5cd7b190e301570/fll-future-3-8-bioglow-game-missions.pdf?locale=en-us#page=3). ©2026 FIRST and the LEGO Group. All rights reserved.*
 
 Player-area boundaries also matter: a token visible on the mat is not necessarily available for a child to pick up by hand. Use the role rules for legal access and handoffs.
 
-[Official player areas — Field Map, page 14](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt90d03df02f7a76dc/6a7483f9c2c8ed763808c589/fll-future-3-8-bioglow-field-map.pdf?locale=en-us#page=14)
+![Official full-field diagram showing the Driver, Technician, Operator, and Specialist positions and handling areas for both teams.](images/official-player-areas.png)
+
+*Source: [Official player areas — Field Map, page 14](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt90d03df02f7a76dc/6a7483f9c2c8ed763808c589/fll-future-3-8-bioglow-field-map.pdf?locale=en-us#page=14). ©2026 FIRST and the LEGO Group. All rights reserved.*
 
 ## 2. Complete starting inventory
 
@@ -195,4 +201,4 @@ The Technician Role Card p. 2 reverses the E2/E3 references relative to the actu
 - Supplementary third-party evidence: [Next Level Teacher forest/hive demonstration](https://www.youtube.com/shorts/Yw9Wgl9S70s), opening ~0:00–0:09, reviewed September 21, 2026. Supports per-delivery resource release and the subsequent queen release; not an official rule source.
 - Reported firsthand observations, September 21, 2026: waterfall lid must remain held open by the tree, or the rubber band closes it; K exits the bottom opening beside the score meter. Collection/reuse legality was separately assessed against Rulebook 14–15 and Mission 3, rather than treated as an observed rule.
 
-Official diagrams are linked at their original sources. The dependency diagrams in this guide are independent explanatory diagrams, not official field drawings.
+The three official page images above are unaltered reference excerpts accompanying the explanations in this noncommercial guide. Copyright remains with FIRST and the LEGO Group; source links accompany each image. This guide is not affiliated with or endorsed by either organization. The dependency diagrams are independent explanations, not official field drawings.
