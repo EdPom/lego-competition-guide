@@ -10,19 +10,21 @@ A short preparation activity for parents and coaches helping children explore a 
 
 ## Give them a concrete starting point
 
-A lab website often describes several scientists' projects and uses specialist language. Start with a short explanation of the guest's interests, then connect those interests to something the children want to discover. Children do not need to understand research papers to have a worthwhile conversation.
+**Our guest is a biologist and first-year Ph.D. student in the Graduate Group in Ecology at UC Davis, working with Dr. Simon Anthony.** Her research interests focus on **wildlife disease ecology**: how the environment, animals, and microbes interact in ways that affect health and the spread of disease.
 
-For an example involving wildlife disease ecology, the [Anthony Lab at UC Davis](https://anthonylab.vetmed.ucdavis.edu/) studies wildlife viruses, especially in bats. Its [Virus Discovery page](https://anthonylab.vetmed.ucdavis.edu/virus-discovery) has bat and field-sampling photographs to explore together. These describe the lab's work; ask the guest which questions and methods belong to their own research.
+More specifically, she is interested in **how environmental conditions influence microbial communities in bats**, and how those changes may affect disease transmission and susceptibility—how diseases spread and how likely an animal is to become infected or ill. She wants to combine **field work and laboratory research** to understand how environmental changes affect wildlife. These are her stated research interests; the conversation is an opportunity to ask what she is currently investigating and which methods she uses or hopes to use.
 
-The connection to a banana slug project is **how scientists study animals and their surroundings, gather evidence, and evaluate whether an idea helps**. General research methods can be useful even when the scientist studies a different animal.
+The connection to the children's banana slug project is **how an animal's surroundings affect its life and health, and how we can study that relationship**. The children want to protect slugs and monitor their lives. She can offer a scientific perspective on choosing observations, collecting evidence, and finding out whether a proposed habitat helps. Her stated research focuses on bats and disease ecology, so questions about particular slug care needs may need a specialist or further research.
+
+The [Anthony Lab website](https://anthonylab.vetmed.ucdavis.edu/) provides broader background on the lab's wildlife virus research. Its [Virus Discovery page](https://anthonylab.vetmed.ucdavis.edu/virus-discovery) has bat and field-sampling photographs to explore together. Use these as conversation starters; the lab's other projects are not necessarily her own work.
 
 ## A one-minute introduction to read aloud
 
-Adapt this introduction to the guest's stated interests:
+Here is a simple way to introduce her research to the children:
 
-> “We’re meeting a scientist who studies wildlife. Scientists in this area ask how animals, their surroundings, and tiny microbes are connected. Microbes include things like bacteria that are too small to see with just our eyes. Many are harmless or helpful.
+> “We’re meeting a scientist at UC Davis who is studying ecology—how living things and their surroundings are connected. She is interested in bats and the tiny microbes associated with them. Microbes include things like bacteria that are too small to see with just our eyes. Many are harmless or helpful.
 >
-> “Scientists can investigate outdoors and use a laboratory to examine clues more closely. We can ask our guest what that looks like in their own work.
+> “She wants to understand how changes in the places bats live might affect their microbes and health. She is interested in investigating outdoors and using a laboratory to examine clues more closely. We can ask her what that looks like in her own work.
 >
 > “Our animal is a banana slug. We want to protect it and learn about its life. We can ask how a scientist would decide what to observe, what to measure, and how to find out whether our idea helps.”
 
