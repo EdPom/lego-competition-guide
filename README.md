@@ -18,6 +18,7 @@ Start with the [official resource index](INDEX.md) for the rules, mission descri
 | [Driving-base attachments](notes/driving-base-attachments.md) | What can be attached, how can attachments change, and how does the shared electrical budget work? |
 | [Technician tool](notes/technician-tool.md) | How can the robotic tool operate, be loaded, and travel with the driving base? |
 | [Theoretical score](notes/theoretical-score.md) | How is the conditional, balanced ceiling of 990 points per team derived? |
+| [Scientist conversation prep](notes/scientist-conversation-prep.md) | How can parents help children understand a scientist’s work, develop their own questions, and connect the conversation to their project? |
 | [Teacher Portal](notes/teacher-portal.md) | Which official sessions support learning the roles, developing ideas, and testing strategies? |
 
 For a first discussion, read the token-flow guide with the official Field Map, then consult the equipment notes for the ideas the children want to try. Use the Teacher Portal prompts to help them compare and explain their choices.
